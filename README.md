@@ -23,6 +23,7 @@ Screenshots
 ----------------
 <img src="https://github.com/praharshjain/chucknorris-indicator/blob/master/screenshot1.jpg">  
 <img src="https://github.com/praharshjain/chucknorris-indicator/blob/master/screenshot2.jpg">  
+  
 License
 ----------------
 MIT
